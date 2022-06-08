@@ -1,0 +1,13 @@
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/db/ContentEntity.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/request/RequestSenderImpl.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/service/FeedService.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/service/FeedServiceImpl.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/db/ContentRepository.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/dto/FeedDTO.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/dto/UserDTO.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/rest/controller/FeedController.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/dto/NewFeedDTO.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/FeedserviceApplication.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/db/FeedRepository.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/db/FeedEntity.java
+/Users/antonglomadov/Downloads/feedservice-master/src/main/java/com/example/feedservice/request/RequestSender.java
